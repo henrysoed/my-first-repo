@@ -4,6 +4,6 @@ NPM     : 2206827762
      
 Kelas   : PBP A
 
-Hobi    : Tidur
+Hobi    : Belajar hal baru
 
 Jurusan : Ilmu Komputer
